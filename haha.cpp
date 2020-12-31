@@ -1,1 +1,1 @@
-//printf("haha\n");
+printf("haha\n");
